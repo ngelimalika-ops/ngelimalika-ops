@@ -19,8 +19,8 @@ I'm particularly interested in Artificial Intelligence, Machine Learnig, Cyberse
 
 ### 💻 Projects
 
--Hackathon projects and buiding websites
 - Programming exercises
+- Hackathon projects and buiding websites
 - Web development projects
 - Database projects
 - IoT experiments
